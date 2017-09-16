@@ -1,4 +1,4 @@
-package io.i101.platform.profile;
+package io.i101.platform.account;
 
 import io.restassured.RestAssured;
 import org.junit.Before;
@@ -15,7 +15,7 @@ import static org.springframework.http.HttpStatus.OK;
 
 /**
  * Integration tests with full Spring Boot app context.
- * Naming for @Test method: [http method]_[context]_[request], e.g. GET /profile/load => GET_profile_load
+ * Naming for @Test method: [http method]_[context]_[request], e.g. GET /account/load => GET_profile_load
  *
  * Spring’s test framework will cache application contexts between tests.
  * Therefore, as long as your tests share the same configuration (no matter how it’s discovered),

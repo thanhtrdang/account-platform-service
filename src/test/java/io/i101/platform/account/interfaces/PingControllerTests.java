@@ -1,7 +1,7 @@
-package io.i101.platform.profile.interfaces;
+package io.i101.platform.account.interfaces;
 
 import com.greghaskins.spectrum.Spectrum;
-import io.i101.platform.profile.application.PingService;
+import io.i101.platform.account.application.PingService;
 import lombok.val;
 import org.junit.Rule;
 import org.junit.runner.RunWith;

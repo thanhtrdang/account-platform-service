@@ -1,4 +1,4 @@
-package io.i101.platform.profile;
+package io.i101.platform.account;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

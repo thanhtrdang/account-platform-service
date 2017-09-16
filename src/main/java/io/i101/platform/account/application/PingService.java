@@ -1,4 +1,4 @@
-package io.i101.platform.profile.application;
+package io.i101.platform.account.application;
 
 import reactor.core.publisher.Mono;
 

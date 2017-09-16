@@ -1,4 +1,4 @@
-package io.i101.platform.profile.application.impl;
+package io.i101.platform.account.application.impl;
 
 import com.greghaskins.spectrum.Spectrum;
 import lombok.val;

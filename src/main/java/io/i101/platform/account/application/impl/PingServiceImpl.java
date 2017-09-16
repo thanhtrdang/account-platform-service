@@ -1,6 +1,6 @@
-package io.i101.platform.profile.application.impl;
+package io.i101.platform.account.application.impl;
 
-import io.i101.platform.profile.application.PingService;
+import io.i101.platform.account.application.PingService;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Mono;
 

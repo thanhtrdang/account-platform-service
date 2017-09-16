@@ -1,6 +1,6 @@
-package io.i101.platform.profile.interfaces;
+package io.i101.platform.account.interfaces;
 
-import io.i101.platform.profile.application.PingService;
+import io.i101.platform.account.application.PingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
